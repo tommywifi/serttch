@@ -35,9 +35,9 @@ const teamMembers: TeamMember[] = [
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/falko-face-modified-removebg-preview-N06kqPYKrxaXSSaEFkXUnaRHYXDaS1.png",
   },
   {
-    name: "Damn Gruz",
+    name: "Kostas Buostek",
     title: "Lead Developer",
-    email: "d.gruz@sertt.ch",
+    email: "k.buostek@sertt.ch",
     quote:
       "The future of finance is programmable, transparent, and accessible to all. Solana is just the beginning of what's possible.",
     background: "Full-stack developer specializing in DeFi protocols and cross-chain solutions",
